@@ -1,0 +1,18 @@
+Hello,
+
+Here are some contact details collected from our sample document.
+
+For technical support, contact support@gmail.com.
+
+For internship queries, contact internship@codealpha.tech.
+
+You can also reach our development team at
+developer123@outlook.com.
+
+For business enquiries, contact business.team@yahoo.com.
+
+Additional contacts:
+debmalya@example.com
+python.developer@gmail.com
+
+Thank you.
